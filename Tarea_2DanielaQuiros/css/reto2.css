@@ -1,0 +1,39 @@
+.titulo1 {
+    font-size: 40 px;
+    color: #000000;
+    font-weight: bolder;
+}
+
+.titulo2{
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    font-weight: 100;
+}
+
+.titulo3{
+    color: #f44d30;
+}
+
+.container-fluid1 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.btn {
+    background-color: #f44d30;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.fondo1{
+    background-color: #b6b5b5;
+}
+
+.icono1{
+    background-color: #f44d30;
+    border-radius: 100%;
+    font-size: 54px;
+    height: 76px;
+    width: 76px;
+}

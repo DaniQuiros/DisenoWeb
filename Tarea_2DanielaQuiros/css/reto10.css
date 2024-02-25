@@ -1,0 +1,7 @@
+.fondo1{
+    background-blend-mode: luminosity;
+    background-image: url('../img/reto10/blog1.jpg');
+    background-position: center;
+    background-size: cover;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .5);
+}
